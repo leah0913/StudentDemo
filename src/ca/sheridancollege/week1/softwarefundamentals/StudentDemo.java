@@ -5,6 +5,7 @@
  */
 package ca.sheridancollege.week1.softwarefundamentals;
 
+
 /**
  * A model class to model Student Objects
  * @author dancye, 2019
