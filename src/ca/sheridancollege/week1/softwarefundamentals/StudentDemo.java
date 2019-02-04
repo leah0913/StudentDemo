@@ -17,8 +17,8 @@ public class StudentDemo {
     private String program;
     private String course;
     private String fetch_merge;
-    Private String another, variable, here, toCheck;
-
+    private String another;
+    
 //    Just Add comment to check out if push is working or not
     // Add Comment to check out how fetch and merge works
     
