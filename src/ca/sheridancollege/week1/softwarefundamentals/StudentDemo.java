@@ -16,6 +16,7 @@ public class StudentDemo {
     private String name;
     private String program;
     private String course;
+    private String fetch_merge;
 
 //    Just Add comment to check out if push is working or not
     // Add Comment to check out how fetch and merge works
