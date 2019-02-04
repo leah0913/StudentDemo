@@ -18,6 +18,8 @@ public class StudentDemo {
     private String course;
 
 //    Just Add comment to check out if push is working or not
+    // Add Comment to check out how fetch and merge works
+    
     /**
      * A constructor to pass in the given ID and then name
      * @param givenID - the ID to assign
